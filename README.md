@@ -4,6 +4,6 @@ HORRIBLE code to make the robot working per la presentazione di giovedì 7 ottob
 da eliminare!!
 ## File information
 
-utilizza il codice di MotorTest per fare muovere il rover
+utilizza il codice di MotorTest per fare muovere il rover.
 
-fa muovere in un ciclo infinito il braccio robotico con movimenti predefiniti
+Fa muovere in un ciclo infinito il braccio robotico con movimenti predefiniti.
