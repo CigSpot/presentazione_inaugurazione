@@ -1,0 +1,1 @@
+# presentazione_inaugurazione
